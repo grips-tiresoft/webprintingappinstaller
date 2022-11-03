@@ -1,0 +1,3 @@
+PDFTrayPrinter takes "-sign" add. arg. and send PDF to selected PDF Sign EXE (e.g. Signosign2)
+Selectable PDF Printer EXE and arguments on setting page
+Selectable PDF Sign EXE and arguments on setting page
